@@ -1,4 +1,4 @@
-package ionic.plugin.videosettings.AndroidMediaGestureSetting;
+package ionic.plugin.videosettings;
 
 import java.lang.reflect.InvocationTargetException;
 import java.lang.reflect.Method;
