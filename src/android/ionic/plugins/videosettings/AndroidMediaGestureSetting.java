@@ -1,4 +1,4 @@
-package com.simplec.phonegap.plugins.videosettings;
+package ionic.plugin.videosettings.AndroidMediaGestureSetting;
 
 import java.lang.reflect.InvocationTargetException;
 import java.lang.reflect.Method;
